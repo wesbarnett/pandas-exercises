@@ -1,7 +1,8 @@
 Jupyter notebooks with exercises derived from Pandas tutorial by Wes
 McKinney. Originally these were iPython notebooks, but they have been
-Updated to be used with Jupyter. Many functions have been deprecated
-so those have been updated in the notebooks.
+updated to be used with Jupyter. Additionally, a few functions in the
+video have been deprecated in favor of newer alternatives, so those
+have been updated in the notebooks.
 
 Video: [http://www.youtube.com/watch?v=w26x-z-BdWQ](http://www.youtube.com/watch?v=w26x-z-BdWQ)
 
