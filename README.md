@@ -4,6 +4,9 @@ updated to be used with Jupyter. Additionally, a few functions in the
 video have been deprecated in favor of newer alternatives, so those
 have been updated in the notebooks.
 
+Although this video is a few years old now, it is still recommended by
+many as an introduction to pandas.
+
 Video: [http://www.youtube.com/watch?v=w26x-z-BdWQ](http://www.youtube.com/watch?v=w26x-z-BdWQ)
 
 The notebooks can be viewed online with [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/)
